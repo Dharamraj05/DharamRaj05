@@ -1,20 +1,20 @@
 # Hi there, I'm Dharam Raj 👋
 
-I'm an aspiring Full Stack Developer from India.
+I'm an aspiring Full Stack Developer from India 🇮🇳.
 
-Passionate about building modern websites and web applications while continuously learning new technologies. I'm currently focused on strengthening my development skills through hands-on projects and practical experience.
+I enjoy building modern websites and web applications while continuously learning new technologies. Every project helps me improve my skills and brings me one step closer to becoming a better developer.
 
-
+---
 
 ## 👨‍💻 About Me
 
 - 🌱 Currently learning Full Stack Development.
-- 💻 Building websites and web applications to improve my skills.
-- 📚 Exploring Data Structures & Algorithms and System Design.
-- 🎯 My goal is to become a skilled Software Engineer.
-- 🚀 I believe in learning by building real-world projects.
+- 💻 Building websites and web applications.
+- 📚 Exploring Data Structures, Algorithms, and System Design.
+- 🎯 Working towards becoming a skilled Software Engineer.
+- 🚀 Learning by building real-world projects.
 
-
+---
 
 ## 🛠️ Tech Stack
 
@@ -22,19 +22,28 @@ Passionate about building modern websites and web applications while continuousl
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,git,github,vscode" />
 </p>
 
+---
 
 ## 🌱 Currently Learning
 
 - 🌐 Building responsive websites and web applications.
 - ⚙️ Learning backend development with Node.js and MongoDB.
-- 🧠 Strengthening my JavaScript fundamentals through hands-on projects.
+- 🧠 Strengthening my JavaScript fundamentals.
 - 📚 Exploring Data Structures, Algorithms, and System Design.
-- 🚀 Learning new technologies by building real-world projects.
+- 🚀 Building projects to gain practical experience.
+
+---
 
 ## 🎯 Goals
 
-- 💻 Build projects that solve real-world problems.
+- 💻 Build impactful real-world projects.
 - 📖 Become confident in Full Stack Development.
 - 🌱 Learn React and Express.js.
-- 🤝 Make my first open-source contribution.
-- 🚀 Continuously improve as a developer.
+- 🤝 Contribute to open-source projects.
+- 🚀 Keep learning and improving every day.
+
+---
+
+## 📫 Let's Connect
+
+- GitHub: https://github.com/DharamRaj05
