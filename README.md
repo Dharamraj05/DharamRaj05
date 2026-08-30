@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Dharam Raj 👋
 
-<!--
-**Dharamraj05/DharamRaj05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Full Stack Developer from India 🇮🇳.
 
-Here are some ideas to get you started:
+Passionate about building modern websites and web applications while continuously learning new technologies. I'm currently focused on strengthening my development skills through hands-on projects and practical experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning Full Stack Development.
+- 💻 Building websites and web applications to improve my skills.
+- 📚 Exploring Data Structures & Algorithms and System Design.
+- 🎯 My goal is to become a skilled Software Engineer.
+- 🚀 I believe in learning by building real-world projects.
+
+
+
+## 🛠️ Tech Stack
+
+- **Languages:** HTML, CSS, JavaScript
+- **Backend:** Node.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, VS Code
+
+
+
+## 🚀 What I'm Working On
+
+- 🌐 Building responsive websites and web applications.
+- 📖 Learning backend development with Node.js and MongoDB.
+- 🧠 Improving my JavaScript skills through hands-on projects.
+- 🎯 Working towards becoming a Full Stack Developer.
+
+
+
+## 🌟 Goals for 2026
+
+- ✅ Build 10+ real-world projects.
+- 📚 Master JavaScript and Node.js.
+- 🚀 Learn React and Express.js.
+- 🤝 Contribute to open-source projects.
+- 💼 Become internship/job ready.
