@@ -18,11 +18,9 @@ Passionate about building modern websites and web applications while continuousl
 
 ## 🛠️ Tech Stack
 
-- **Languages:** HTML, CSS, JavaScript
-- **Backend:** Node.js
-- **Database:** MongoDB
-- **Tools:** Git, GitHub, VS Code
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,git,github,vscode" />
+</p>
 
 
 ## 🚀 What I'm Working On
