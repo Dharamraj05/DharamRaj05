@@ -1,6 +1,6 @@
 # Hi there, I'm Dharam Raj 👋
 
-I'm an aspiring Full Stack Developer from India 🇮🇳.
+I'm an aspiring Full Stack Developer from India.
 
 Passionate about building modern websites and web applications while continuously learning new technologies. I'm currently focused on strengthening my development skills through hands-on projects and practical experience.
 
