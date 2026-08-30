@@ -23,19 +23,18 @@ Passionate about building modern websites and web applications while continuousl
 </p>
 
 
-## 🚀 What I'm Working On
+## 🌱 Currently Learning
 
 - 🌐 Building responsive websites and web applications.
-- 📖 Learning backend development with Node.js and MongoDB.
-- 🧠 Improving my JavaScript skills through hands-on projects.
-- 🎯 Working towards becoming a Full Stack Developer.
+- ⚙️ Learning backend development with Node.js and MongoDB.
+- 🧠 Strengthening my JavaScript fundamentals through hands-on projects.
+- 📚 Exploring Data Structures, Algorithms, and System Design.
+- 🚀 Learning new technologies by building real-world projects.
 
+## 🎯 Goals
 
-
-## 🌟 Goals for 2026
-
-- ✅ Build 10+ real-world projects.
-- 📚 Master JavaScript and Node.js.
-- 🚀 Learn React and Express.js.
-- 🤝 Contribute to open-source projects.
-- 💼 Become internship/job ready.
+- 💻 Build projects that solve real-world problems.
+- 📖 Become confident in Full Stack Development.
+- 🌱 Learn React and Express.js.
+- 🤝 Make my first open-source contribution.
+- 🚀 Continuously improve as a developer.
