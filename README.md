@@ -2,7 +2,7 @@
 
 I'm an aspiring Full Stack Developer from India 🇮🇳.
 
-I enjoy building modern websites and web applications while continuously learning new technologies. Every project helps me improve my skills and brings me one step closer to becoming a better developer.
+I enjoy building modern websites and web applications while continuously learning new technologies.Every project helps me improve my skills and brings me one step closer to becoming a better developer.
 
 ---
 
